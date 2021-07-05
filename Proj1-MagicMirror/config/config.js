@@ -73,7 +73,7 @@ let config = {
 				type: "current",
 				location: "Singapore, SG",
 				locationID: "1880216", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "6abe53ac6b84e513f913cf5b3201cafc"
+				apiKey: "openweatherapikey"
 			}
 		},
 		{
@@ -85,7 +85,7 @@ let config = {
 				type: "forecast",
 				location: "Singapore, SG",
 				locationID: "1880216", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "6abe53ac6b84e513f913cf5b3201cafc"
+				apiKey: "openweatherapikey"
 			}
 		},
 		{
